@@ -1,0 +1,16 @@
+This is the rubric from a potential assignment/evaluation. I am assuming it is for a rock/paper/scissors game.
+
+Criteria 1: Border: Click on the image displays a thick border
+
+Criteria 2: play() function:
+-random computer choice 1
+ -obtain player choice 1
+ -compare player and computer choices / return values 1
+ -code quality and conciseness
+
+
+ Criteria 3:  Click on the image plays the game and displays the result
+
+ Criteria 4: Play again button - reset game (player and computer images, play again button)
+
+ Criteria 5: General code quality and style, includes: - code formatting and readability - variable names - no duplicate code (use a function instead)
